@@ -1,2 +1,2 @@
-# get_and_clean_data
+# Getting_Cleaning_Data
 John Hopkins Getting and Cleaning Data Course Project
