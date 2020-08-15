@@ -8,3 +8,5 @@ The repository includes the following files:
 - run_analysis.R: Contains the R codes written to perform the analysis and create the tidied data.
 
 - tidy_data.txt: The tidied data as a result of the analysis.
+
+- and also the repository UCI_HAR_Dataset which contains the original datasets.
