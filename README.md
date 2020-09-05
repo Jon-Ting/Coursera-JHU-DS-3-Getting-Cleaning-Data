@@ -1,5 +1,4 @@
-# Getting_Cleaning_Data
-John Hopkins Getting and Cleaning Data Course Project
+Johns Hopkins University Getting and Cleaning Data Coursera course assignments.
 
 The repository includes the following files:
 ============================================
